@@ -9,7 +9,6 @@ Welcome to the #90DaysOfDevOps Challenge
    - Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations.
 
 ## 2.What is Automation, Scaling, and Infrastructure:
-    
 	2.1. Automation : Automation means using tools and scripts to perform repetitive tasks with less human intervation. For example, my current project needs to test its functionality 
 	                  every time a new feature is added. Instead of manually testing, we use automated tools to create a script and run that script quickly and accurately. This saves 
 					  time and reduces the chance of human error.
@@ -32,8 +31,7 @@ Welcome to the #90DaysOfDevOps Challenge
             - Automation: Uses technology to handle repetitive tasks.
             - Scaling: Adjusts resources to meet demand.
             - Infrastructure: The essential foundation for running applications and services.
-## 3.Why DevOps is Important:
-    
+## 3.Why DevOps is Important:  
 	1. Faster Delivery:-
             - Speed: DevOps practices like automation and CI/CD allow for rapid development and frequent releases, getting new features and fixes to users quickly.
 	2.  Better Collaboration:-
