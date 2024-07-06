@@ -34,16 +34,16 @@ Welcome to the #90DaysOfDevOps Challenge
             - Infrastructure: The essential foundation for running applications and services.
 ## 3.Why DevOps is Important:
     
-	- Faster Delivery:-
+	1. Faster Delivery:-
             - Speed: DevOps practices like automation and CI/CD allow for rapid development and frequent releases, getting new features and fixes to users quickly.
     
-	- Better Collaboration:-
+	2.  Better Collaboration:-
             - Unified Teams: DevOps fosters collaboration between development and operations teams, leading to better communication and shared responsibility for the product.
     
-	- Higher Quality and Reliability:-
+	3.  Higher Quality and Reliability:-
             - Automated Testing: Continuous testing and consistent environments catch bugs early and ensure that software works well across different stages, reducing errors in production.
     
-	- Increased Efficiency:-
+	4.  Increased Efficiency:-
             - Reduced Manual Tasks: Automating repetitive tasks saves time and resources, allowing teams to focus on innovation and complex problem-solving.
        
 
